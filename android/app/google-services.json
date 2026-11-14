@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54312291440",
+    "project_id": "cal-ai-c56c2",
+    "storage_bucket": "cal-ai-c56c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54312291440:android:31f1dc63559e8b7266f8b5",
+        "android_client_info": {
+          "package_name": "com.calai.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFQ1-qbsBX_9sU-ClAj3GSN02L8Q91l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
